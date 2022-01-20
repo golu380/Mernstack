@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container-fluid{
+    width: 50%;
+    float: left;
+    background-color: aqua;
+}
+.container-fluid1{
+    width: 50%;
+    float: left;
+    background-color: aqua;
+}
